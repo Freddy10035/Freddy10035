@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Freddy10035
 - 👀 I’m interested in Artificial Intelligence and Data Science
-- 🌱 I’m currently learning how to write a full project code using AI
-- 💞️ I’m looking to collaborate on any projects involving neural networks, full-stack projects or AI
+- 🌱 I’m currently learning flutter and Dart
+- 💞️ I’m looking to collaborate on any projects involving neural networks, full-stack projects or AI related jobs
 - 📫 You can reach me by sending an email to flaughters@gmail.com
 
 <!---
