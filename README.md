@@ -1,6 +1,6 @@
 <div align="center">
 
-| [![Fredrick Ochieng](https://img.shields.io/badge/FO-Fredrick%20Ochieng-blue)](#) | [![Stars](https://img.shields.io/github/stars/freddy10035?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) | [![twitter](https://img.shields.io/twitter/follow/masterdroyd_?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/masterdroyd_) |![](https://komarev.com/ghpvc/?username=Freddy10035&color=green)|
+| [![Fredrick Ochieng](https://img.shields.io/badge/FO-Fredrick%20Ochieng-blue)](#) | [![Stars](https://img.shields.io/github/stars/freddy10035?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) | [![twitter](https://img.shields.io/twitter/follow/masterdroyd_?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/masterdroyd_) |
 | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 </div>
