@@ -12,16 +12,10 @@
   <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/masterdroyd_"><img align="center" src="img/twitter.svg" alt="Rose | Twitter" width="31px"/></a>
   <a target="_blank" rel="noopener noreferrer" href="mailto:flaughters@gmail.com:"><img align="center" src="img/icons8-gmail.svg" alt="Rose | Mail" width="31px"/></a>
 </div>
+  <br>
+<!--   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Freddy10035" alt="Freddy10035" /></a> </p>
+  <br> -->
+  <div><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Freddy10035" /></p></div>
+  
 
-<div>
-<!-- <h2 align="left" padding-left="45px" >Work in progress 🔭 </h2>
 
-- I'm currently learning Flutter and Dart!😊
-- An open-source enthusiast!🔣
-- Ask me about anything(I am happy to help) 💬 -->
-
-<!-- <h2 align="left">Stats 📈 </h2>
-<p align="left">
-<img width="380px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=codemuse-io&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark&stroke=0000&background=0D1117" />
-</p>
-</div> -->
